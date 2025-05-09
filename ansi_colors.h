@@ -89,4 +89,4 @@
 #define ANSI_REVERSE    "\x1b[7m"  // Farben umkehren (invertiert)
 #define ANSI_HIDDEN     "\x1b[8m"  // Unsichtbar
 
-#endif // ANSI_COLORS_EXTENDED_H
+#endif // ANSI_COLORS_H
