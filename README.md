@@ -2,7 +2,7 @@
 
 # 🎨 ANSI Colors for C
 
-Bring color to your C programs like a boss.  
+Bring color to your C programs.  
 This header gives you full access to **ANSI escape sequences** for colorful and styled terminal output – clean, portable, and ready to use.
 
 
